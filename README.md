@@ -1,7 +1,7 @@
 # Technology used
 
 1. React Js
-2. Browser local storage(for saving our inuts)
+2. Browser local storage(for saving our inputs)
 
 
 # Getting Started with Create React App
